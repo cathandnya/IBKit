@@ -22,7 +22,7 @@ pod 'IBKit'
 
 ## Author
 
-cathandnya, home@cathand.org
+cathandnya, webmaster@cathand.org
 
 ## License
 
