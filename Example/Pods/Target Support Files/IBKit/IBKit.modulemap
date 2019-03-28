@@ -1,0 +1,6 @@
+framework module IBKit {
+  umbrella header "IBKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
